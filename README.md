@@ -166,7 +166,7 @@ Mình luôn đam mê việc biến những dòng code khô khan thành các sả
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>

@@ -141,14 +141,14 @@ Mình luôn đam mê việc biến những dòng code khô khan thành các sả
 
 ## 🏆 Cúp vinh danh GitHub (Trophies)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huidinne&theme=tokyonight&column=-1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Huidinne&theme=pastel&column=-1&no-frame=true" />
 </p>
 <br>
 
 ## 📊 Thống kê hoạt động (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huidinne&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huidinne&theme=pastel&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <br>

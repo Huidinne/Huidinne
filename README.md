@@ -93,7 +93,7 @@ Mình luôn đam mê việc biến những dòng code khô khan thành các sả
         <b>Machine Learning</b>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdhMWp1dDhtaWE2OThidnY2dW8wc3g5Z2Uyb21vdWNkaDFjcW5sOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="100px" alt="Data Analysis"/><br />
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ0Mnd3MTRkdWdsNjVsdXNyMXN1YWsyZDgyMnlzczVmeXZ2NnY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100px" alt="Data Analysis"/><br />
         <b>Data Analysis</b>
       </td>
     </tr>

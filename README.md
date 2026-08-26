@@ -119,7 +119,7 @@ Mình luôn đam mê việc biến những dòng code khô khan thành các sả
 ## 🔥 Dự án nổi bật (Featured Projects)
 
 <div align="center">
-  <a href="[https://github.com/Huidinne](https://github.com/Huidinne/Project-AI-Travel-Planner)">
+  <a href="https://github.com/Huidinne/Project-AI-Travel-Planner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huidinne&repo=Huidinne&theme=pastel&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/Huidinne">
